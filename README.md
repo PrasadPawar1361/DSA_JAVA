@@ -3,9 +3,8 @@ in this repo i am start to solve dsa questions everyday and  try to solve 1/2 qu
 
 
 DSA_JAVA/
-├── Arrays/
-│   ├── TwoSum.java
-│   ├── MaxSubarray.java
+├── Basics/
+│── Arrays/
 ├── Strings/
 ├── LinkedList/
 ├── Stack/
