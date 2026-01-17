@@ -1,4 +1,4 @@
-package learn_array;
+package Basics;
 
 class Palindrome {
 
