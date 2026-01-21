@@ -1,8 +1,8 @@
 package Basics;
 
-public class fibo {
+ class fibo {
     
- public int fibon(int n){
+ public static int fibon(int n){
     if(n==0){
         return 0;
     }else if(n==1){
