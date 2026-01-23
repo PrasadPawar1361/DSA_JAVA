@@ -1,6 +1,6 @@
 package Basics;
 
-class Palindrome {
+class day1_Palindrome {
 
     public static boolean isPalindrome(int z) {
 

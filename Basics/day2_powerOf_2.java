@@ -1,6 +1,6 @@
 package Basics;
 
-class power_of_2
+class day2_powerOf_2
      {
       public static boolean power(int n)
       {

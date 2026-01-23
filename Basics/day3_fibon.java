@@ -1,6 +1,6 @@
 package Basics;
 
- class fibo {
+ class day3_fibon {
     
  public static int fibon(int n){
     if(n==0){
